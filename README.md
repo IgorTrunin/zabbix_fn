@@ -19,7 +19,7 @@ Installation:
 
 Warning: 
 	
-	This template was created by document "NAS_271_ASUSTOR_NAS_MIB_Guide.pdf", so if some items will not work with your equipment don't blame me )).
+	This template was created by document "NAS_271_ASUSTOR_NAS_MIB_Guide.pdf", so if some items will not work with your hardware don't blame me )).
 	Created and tested with ASUSTOR AS1002T.
 
 I NEED YOUR HELP with testing this template with other ASUSTOR products.
